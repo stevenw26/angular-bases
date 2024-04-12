@@ -11,16 +11,16 @@ export class DbzService {
   public characters: Character[] = [
     {
     id: uuid(),
-    name: 'Krillin',
-    power: 1000
+    name: 'Tilapia',
+    power: 500
   },{
     id: uuid(),
-    name: 'Goku',
-    power: 9500
+    name: 'Cachama',
+    power: 4250
   },{
     id: uuid(),
-    name: 'Vegetta',
-    power: 7500
+    name: 'Trucha',
+    power: 350
   }
   ];
 
